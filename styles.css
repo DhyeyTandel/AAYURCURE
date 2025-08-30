@@ -872,6 +872,68 @@ a:hover {
     background: rgba(255, 255, 255, 0.2);
 }
 
+/* Image Styles */
+.hero-image {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: var(--border-radius-lg);
+    overflow: hidden;
+}
+
+.hero-bg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.doctor-image {
+    text-align: center;
+    margin-bottom: var(--spacing-lg);
+}
+
+.doctor-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid var(--color-primary);
+    box-shadow: var(--box-shadow-lg);
+}
+
+.service-image {
+    width: 100%;
+    height: 200px;
+    border-radius: var(--border-radius) var(--border-radius) 0 0;
+    overflow: hidden;
+    margin-bottom: var(--spacing-md);
+}
+
+.service-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: var(--transition);
+}
+
+.service-card:hover .service-img {
+    transform: scale(1.05);
+}
+
+/* Responsive Images */
+@media (max-width: 768px) {
+    .doctor-photo {
+        width: 150px;
+        height: 150px;
+    }
+    
+    .service-image {
+        height: 150px;
+    }
+}
+
 /* Animations */
 @keyframes fadeInUp {
     from {

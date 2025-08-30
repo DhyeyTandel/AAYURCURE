@@ -1,0 +1,36 @@
+# AAYURCURE Images Directory
+
+## Recommended Image Structure:
+
+### Clinic Images:
+- hero-bg.jpg (Hero section background)
+- clinic-exterior.jpg (Clinic building)
+- clinic-interior.jpg (Treatment room)
+- doctor-profile.jpg (Dr. Asha Tandel photo)
+
+### Treatment Images:
+- panchkarma.jpg (Panchkarma treatment)
+- massage.jpg (Kansya Thali massage)
+- acupuncture.jpg (Viddhkarma/needle therapy)
+- cupping.jpg (Cupping therapy)
+- hair-skin.jpg (Hair and skin care)
+- weight-management.jpg (Weight management)
+
+### Ayurvedic Elements:
+- herbs.jpg (Ayurvedic herbs)
+- oils.jpg (Medicinal oils)
+- equipment.jpg (Treatment equipment)
+
+## Image Guidelines:
+- Use JPG for photos, PNG for graphics with transparency
+- Optimize images for web (compress to reduce file size)
+- Recommended sizes:
+  - Hero images: 1920x1080px
+  - Profile photos: 400x400px
+  - Treatment images: 800x600px
+  - Thumbnails: 300x200px
+
+## Free Image Sources:
+- Unsplash.com (free high-quality photos)
+- Pexels.com (free stock photos)
+- Pixabay.com (free images and illustrations)
