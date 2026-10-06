@@ -19,8 +19,8 @@ AAYURCURE is a professional Ayurvedic clinic offering authentic treatments inclu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/aayurcare.git
-   cd aayurcare
+   git clone https://github.com/DhyeyTandel/AAYURCURE.git
+   cd AAYURCURE
    ```
 
 2. **Open in browser**
